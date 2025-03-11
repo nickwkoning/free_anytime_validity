@@ -9,4 +9,5 @@ The sequentialized z-test and t-test are available as R-functions in the file [c
 This figure can be replicated by running the file [figure1.R](https://github.com/nickwkoning/free_anytime_validity/blob/main/figure1.R)
 
 ## Figure 2
-This figure can be replicated by running the file [TBA]
+This figure can be replicated by running the file [figure2.R](https://github.com/nickwkoning/free_anytime_validity/blob/main/figure2.R)
+
