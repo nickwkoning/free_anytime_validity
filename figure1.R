@@ -18,7 +18,7 @@ z_test <- numeric(N)
 # Calculate conditional rejection probabilities
 for (i in 1:N) {
   t_test[i] <- cond_t(i, N, X, alpha)
-  z_test[i] <- cond_z(i, N, X, alpha, sd)
+  z_test[i] <- cond_z(i, N, X, alpha, sd,FALSE)
 }
 
 #Prepare plot figure
