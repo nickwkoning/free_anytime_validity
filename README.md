@@ -1,6 +1,6 @@
-# Code for the paper "Free Anytime Validity by Sequentializing a Test and Optional Continuation with Tests as Future Significance Levels"
+# Code for the paper "Anytime Validity is Free: Inducing Sequential Tests"
 
-Paper available at: https://arxiv.org/abs/2501.03982
+A preprint of the paper is available at: https://arxiv.org/abs/2501.03982
 
 ## Sequentialized z-test and t-test
 The sequentialized z-test and t-test are available as R-functions in the file [cond_rej_prob.R](https://github.com/nickwkoning/free_anytime_validity/blob/main/cond_rej_prob.R)
